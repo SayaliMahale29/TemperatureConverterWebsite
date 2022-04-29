@@ -1,0 +1,44 @@
+body {
+  margin: 100px;
+  background-color: #9eb7b7;
+}
+
+h3 {
+  text-align: center;
+}
+
+.card {
+  margin: 39px 217px 39px 235px;
+  color: black;
+  background-color: rgb(14 33 25 / 53%);
+  height: 300px;
+  border-radius: 13px;
+}
+
+#tempCalc {
+  padding: 30px;
+}
+
+#button {
+  height: 35px;
+  width: 196px;
+  padding: 0px;
+  border-radius: 11px;
+  border: solid 2px rgb(81 103 99);
+  font-size: 17px;
+  color: #b92323;
+  background-color: #81ffe7;
+  text-align: center;
+}
+
+#tempEnter {
+  padding: 10px 20px;
+  color: white;
+  font-size: 28px;
+}
+
+#options {
+    padding: 6px;
+    border-radius: 4px;
+    font-size: 16px;
+}
